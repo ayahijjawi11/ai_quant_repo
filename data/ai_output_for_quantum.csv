@@ -1,0 +1,251 @@
+region,zone,facility_type,hour,demand_mw,outage_risk,priority_level,pump_capacity_m3,predicted_demand_mw
+Gaza,Deir al-Balah,Hospital,14,143.92,0.81,4,0.0,137.26241666666672
+Gaza,Khan Younis,Water Pump,22,62.32,0.81,3,733.1,68.07166666666662
+West Bank,Hebron,Emergency Center,20,118.5,0.53,3,0.0,105.84275
+West Bank,Nablus,Residential,20,60.87,0.44,1,0.0,58.960416666666596
+Gaza,Deir al-Balah,Hospital,16,131.49,0.74,4,0.0,127.90599999999988
+West Bank,Jenin,Residential,15,41.64,0.24,1,0.0,47.419916666666694
+West Bank,Hebron,Residential,22,79.16,0.39,1,0.0,59.171500000000066
+Gaza,Rafah,Water Pump,20,78.02,0.93,3,306.6,80.43775000000008
+West Bank,Nablus,Emergency Center,8,70.8,0.29,3,0.0,79.4008333333333
+West Bank,Jenin,Water Pump,11,79.81,0.56,3,317.2,80.12774999999995
+West Bank,Nablus,Residential,3,45.59,0.41,1,0.0,68.04474999999995
+West Bank,Jenin,Emergency Center,17,108.76,0.58,3,0.0,103.02458333333344
+West Bank,Jenin,Emergency Center,15,86.33,0.43,3,0.0,89.1935833333333
+West Bank,Ramallah,Emergency Center,7,112.23,0.5,3,0.0,105.00058333333313
+Gaza,North Gaza,Residential,12,37.05,0.88,1,0.0,42.899916666666726
+Gaza,Gaza City,Water Pump,8,90.89,0.6,3,399.4,80.79283333333332
+Gaza,Rafah,Hospital,7,143.74,0.87,4,0.0,126.49641666666678
+Gaza,Khan Younis,Water Pump,8,96.6,0.76,3,725.0,89.19308333333349
+Gaza,North Gaza,Water Pump,11,85.5,0.77,3,743.6,70.67558333333332
+Gaza,Rafah,Hospital,4,133.68,0.87,4,0.0,126.06300000000003
+Gaza,Rafah,Hospital,14,125.65,0.61,4,0.0,126.72583333333318
+Gaza,Rafah,Water Pump,6,79.01,0.84,3,581.6,79.00133333333343
+Gaza,North Gaza,Water Pump,10,68.12,0.81,3,771.4,69.11199999999994
+Gaza,Deir al-Balah,Emergency Center,9,110.41,0.82,3,0.0,101.99191666666658
+West Bank,Jenin,Residential,11,39.33,0.56,1,0.0,58.946416666666586
+Gaza,Khan Younis,Water Pump,6,96.27,0.83,3,436.1,82.64575000000006
+Gaza,Deir al-Balah,Hospital,8,118.29,0.66,4,0.0,122.0898333333336
+Gaza,Gaza City,Emergency Center,4,104.62,0.69,3,0.0,100.33558333333352
+West Bank,Hebron,Emergency Center,23,105.15,0.35,3,0.0,98.7076666666665
+Gaza,Khan Younis,Residential,11,42.59,0.77,1,0.0,51.554583333333355
+Gaza,North Gaza,Hospital,23,102.21,0.81,4,0.0,115.60300000000001
+West Bank,Jenin,Emergency Center,22,83.93,0.56,3,0.0,89.43341666666677
+Gaza,Khan Younis,Hospital,11,126.87,0.79,4,0.0,127.8205833333336
+Gaza,Deir al-Balah,Water Pump,10,74.79,0.88,3,421.1,81.2229166666667
+Gaza,Deir al-Balah,Emergency Center,5,89.94,0.89,3,0.0,96.20591666666671
+West Bank,Ramallah,Hospital,5,141.75,0.54,4,0.0,136.31258333333338
+West Bank,Hebron,Residential,18,65.56,0.52,1,0.0,63.94691666666675
+West Bank,Jenin,Hospital,0,123.85,0.41,4,0.0,129.61658333333355
+West Bank,Ramallah,Water Pump,17,96.99,0.3,3,738.7,73.1011666666666
+West Bank,Nablus,Residential,19,56.48,0.3,1,0.0,56.50999999999992
+West Bank,Jenin,Hospital,4,152.96,0.28,4,0.0,144.96308333333303
+Gaza,Rafah,Water Pump,15,93.87,0.74,3,728.2,87.81825000000002
+Gaza,Deir al-Balah,Water Pump,16,66.47,0.81,3,749.3,66.90450000000007
+Gaza,Gaza City,Water Pump,17,66.43,0.84,3,574.4,73.41825000000011
+West Bank,Tulkarm,Hospital,3,142.73,0.29,4,0.0,135.74749999999983
+Gaza,Deir al-Balah,Residential,7,72.46,0.83,1,0.0,58.1015833333333
+Gaza,Deir al-Balah,Water Pump,18,85.45,0.81,3,425.2,82.72500000000004
+West Bank,Tulkarm,Water Pump,21,96.24,0.34,3,517.2,91.85583333333321
+Gaza,Deir al-Balah,Water Pump,0,67.81,0.7,3,661.2,70.31641666666678
+Gaza,Gaza City,Residential,16,79.73,0.76,1,0.0,68.90966666666652
+West Bank,Tulkarm,Emergency Center,2,107.39,0.58,3,0.0,101.42549999999996
+Gaza,Gaza City,Emergency Center,20,98.61,0.94,3,0.0,94.20016666666669
+West Bank,Tulkarm,Hospital,22,116.11,0.39,4,0.0,119.79925000000006
+West Bank,Ramallah,Emergency Center,21,104.8,0.43,3,0.0,104.40466666666653
+West Bank,Nablus,Residential,14,79.5,0.26,1,0.0,73.61741666666666
+Gaza,Khan Younis,Emergency Center,16,112.43,0.65,3,0.0,102.85858333333339
+West Bank,Tulkarm,Emergency Center,22,90.99,0.3,3,0.0,94.47041666666655
+West Bank,Tulkarm,Residential,6,55.08,0.52,1,0.0,55.0053333333333
+Gaza,Deir al-Balah,Water Pump,22,61.1,0.75,3,589.4,69.16908333333342
+Gaza,Rafah,Hospital,21,135.45,0.61,4,0.0,129.05716666666683
+West Bank,Nablus,Emergency Center,14,88.01,0.25,3,0.0,86.54374999999986
+Gaza,North Gaza,Residential,11,78.26,0.76,1,0.0,64.05625000000012
+West Bank,Tulkarm,Residential,19,50.57,0.48,1,0.0,54.72908333333328
+West Bank,Jenin,Residential,12,78.48,0.49,1,0.0,66.67608333333321
+Gaza,Gaza City,Residential,18,51.95,0.63,1,0.0,53.1274999999999
+Gaza,Khan Younis,Hospital,22,125.7,0.84,4,0.0,124.94016666666684
+Gaza,Khan Younis,Emergency Center,0,92.12,0.68,3,0.0,99.50008333333345
+West Bank,Ramallah,Residential,12,44.0,0.58,1,0.0,56.650666666666616
+Gaza,North Gaza,Emergency Center,22,72.39,0.8,3,0.0,94.90399999999997
+Gaza,North Gaza,Emergency Center,13,74.59,0.63,3,0.0,87.65508333333338
+West Bank,Jenin,Hospital,11,101.03,0.51,4,0.0,116.50875000000018
+Gaza,Deir al-Balah,Hospital,4,123.91,0.82,4,0.0,125.68374999999996
+Gaza,Deir al-Balah,Emergency Center,19,88.73,0.82,3,0.0,94.37591666666648
+West Bank,Ramallah,Residential,4,64.2,0.45,1,0.0,62.88874999999991
+West Bank,Nablus,Hospital,19,134.53,0.36,4,0.0,132.62600000000026
+West Bank,Ramallah,Hospital,18,149.24,0.45,4,0.0,140.47341666666657
+Gaza,Gaza City,Residential,9,40.33,0.7,1,0.0,47.646333333333295
+West Bank,Nablus,Hospital,18,137.1,0.33,4,0.0,130.76833333333357
+West Bank,Tulkarm,Emergency Center,9,71.16,0.53,3,0.0,81.37224999999995
+Gaza,Deir al-Balah,Emergency Center,20,87.42,0.93,3,0.0,86.99791666666668
+West Bank,Jenin,Hospital,20,158.05,0.42,4,0.0,149.4692499999998
+Gaza,Gaza City,Residential,2,79.53,0.74,1,0.0,71.71824999999995
+West Bank,Ramallah,Water Pump,23,94.68,0.3,3,580.9,88.20700000000006
+Gaza,North Gaza,Water Pump,2,64.12,0.78,3,751.3,67.41674999999994
+West Bank,Ramallah,Emergency Center,12,114.78,0.36,3,0.0,108.27983333333341
+West Bank,Tulkarm,Hospital,18,105.48,0.33,4,0.0,114.68233333333316
+West Bank,Jenin,Water Pump,14,63.33,0.44,3,345.9,74.4479166666666
+West Bank,Hebron,Hospital,3,156.77,0.51,4,0.0,147.1432500000002
+Gaza,North Gaza,Hospital,9,158.45,0.95,4,0.0,150.54333333333358
+West Bank,Tulkarm,Water Pump,22,81.84,0.59,3,652.9,79.39158333333337
+Gaza,Khan Younis,Emergency Center,11,113.34,0.89,3,0.0,108.67808333333342
+West Bank,Tulkarm,Residential,9,49.83,0.56,1,0.0,52.13558333333329
+West Bank,Tulkarm,Hospital,4,113.99,0.43,4,0.0,121.68524999999983
+Gaza,Gaza City,Emergency Center,19,81.83,0.92,3,0.0,87.20583333333327
+Gaza,Deir al-Balah,Residential,5,65.41,0.77,1,0.0,62.44041666666661
+West Bank,Hebron,Emergency Center,18,75.56,0.4,3,0.0,83.44875000000005
+Gaza,Khan Younis,Residential,19,35.94,0.64,1,0.0,56.256916666666626
+Gaza,Gaza City,Water Pump,12,69.5,0.77,3,500.1,82.10200000000003
+Gaza,Gaza City,Emergency Center,20,118.16,0.6,3,0.0,109.4242499999999
+West Bank,Tulkarm,Hospital,14,153.47,0.41,4,0.0,139.46849999999984
+Gaza,Deir al-Balah,Hospital,3,133.23,0.94,4,0.0,133.4654166666665
+West Bank,Ramallah,Hospital,13,117.67,0.6,4,0.0,123.94475000000006
+West Bank,Hebron,Residential,22,32.27,0.31,1,0.0,46.86450000000005
+West Bank,Jenin,Residential,20,43.87,0.28,1,0.0,53.000083333333265
+West Bank,Nablus,Residential,17,43.3,0.34,1,0.0,61.62658333333327
+West Bank,Hebron,Emergency Center,16,83.99,0.36,3,0.0,90.17124999999993
+Gaza,Deir al-Balah,Residential,12,75.55,0.89,1,0.0,70.45400000000008
+West Bank,Hebron,Residential,4,60.67,0.37,1,0.0,62.63333333333334
+West Bank,Nablus,Water Pump,12,66.59,0.51,3,505.6,77.97249999999991
+West Bank,Ramallah,Water Pump,20,89.98,0.53,3,496.5,85.4309166666665
+Gaza,North Gaza,Hospital,1,102.21,0.65,4,0.0,109.87991666666657
+Gaza,Deir al-Balah,Hospital,4,159.98,0.95,4,0.0,144.82650000000007
+Gaza,North Gaza,Hospital,4,145.42,0.73,4,0.0,123.37300000000003
+Gaza,Gaza City,Emergency Center,0,117.7,0.81,3,0.0,111.67033333333349
+West Bank,Ramallah,Hospital,7,137.09,0.34,4,0.0,138.67808333333326
+West Bank,Nablus,Emergency Center,1,93.81,0.53,3,0.0,91.25725000000004
+West Bank,Jenin,Hospital,21,158.08,0.24,4,0.0,146.6539166666666
+Gaza,Gaza City,Hospital,15,128.8,0.75,4,0.0,126.81808333333315
+Gaza,North Gaza,Emergency Center,1,110.25,0.92,3,0.0,84.65858333333325
+West Bank,Jenin,Emergency Center,5,100.4,0.45,3,0.0,99.39274999999985
+Gaza,Rafah,Water Pump,1,73.93,0.87,3,557.0,78.64691666666674
+West Bank,Nablus,Water Pump,16,97.98,0.57,3,373.5,93.63033333333313
+West Bank,Ramallah,Residential,19,52.96,0.59,1,0.0,54.97083333333334
+Gaza,Khan Younis,Hospital,10,134.78,0.72,4,0.0,132.26208333333355
+Gaza,Gaza City,Water Pump,22,83.39,0.84,3,500.2,80.32933333333334
+West Bank,Jenin,Residential,2,73.72,0.41,1,0.0,72.26708333333333
+West Bank,Nablus,Hospital,18,102.45,0.27,4,0.0,114.74783333333343
+West Bank,Nablus,Hospital,21,105.32,0.25,4,0.0,115.30441666666655
+Gaza,Deir al-Balah,Emergency Center,13,88.21,0.78,3,0.0,89.28458333333325
+Gaza,Rafah,Hospital,14,137.67,0.63,4,0.0,132.2428333333333
+West Bank,Hebron,Water Pump,15,62.44,0.52,3,438.4,73.56783333333324
+Gaza,Rafah,Hospital,19,112.56,0.73,4,0.0,118.87108333333335
+West Bank,Nablus,Residential,22,56.56,0.49,1,0.0,55.48541666666677
+West Bank,Hebron,Residential,18,65.67,0.56,1,0.0,63.31283333333338
+West Bank,Hebron,Water Pump,12,94.69,0.36,3,477.1,85.2713333333333
+West Bank,Ramallah,Water Pump,4,67.29,0.54,3,582.0,72.83675000000001
+West Bank,Nablus,Emergency Center,11,81.66,0.34,3,0.0,85.97874999999993
+Gaza,Deir al-Balah,Emergency Center,2,102.44,0.77,3,0.0,98.03966666666672
+West Bank,Nablus,Water Pump,7,83.46,0.35,3,582.2,79.80924999999996
+Gaza,Deir al-Balah,Emergency Center,1,82.22,0.77,3,0.0,88.75991666666663
+West Bank,Tulkarm,Hospital,0,100.45,0.29,4,0.0,111.61733333333339
+West Bank,Jenin,Emergency Center,10,74.39,0.52,3,0.0,89.63524999999997
+West Bank,Ramallah,Water Pump,2,80.98,0.59,3,505.2,78.77474999999998
+Gaza,Khan Younis,Residential,10,73.28,0.89,1,0.0,67.1120833333333
+Gaza,Rafah,Emergency Center,1,97.84,0.8,3,0.0,99.05683333333339
+Gaza,North Gaza,Residential,4,39.35,0.71,1,0.0,46.00350000000004
+Gaza,Deir al-Balah,Hospital,19,114.54,0.64,4,0.0,127.40225
+West Bank,Tulkarm,Emergency Center,10,116.6,0.33,3,0.0,106.91558333333344
+Gaza,Gaza City,Emergency Center,17,92.71,0.79,3,0.0,95.03616666666655
+West Bank,Jenin,Emergency Center,12,104.23,0.24,3,0.0,96.98141666666649
+Gaza,North Gaza,Hospital,16,107.0,0.77,4,0.0,114.99258333333333
+West Bank,Hebron,Emergency Center,16,112.54,0.5,3,0.0,102.5001666666668
+West Bank,Tulkarm,Residential,10,76.92,0.27,1,0.0,70.56508333333338
+Gaza,Gaza City,Residential,21,32.4,0.87,1,0.0,42.82124999999998
+Gaza,Gaza City,Hospital,13,147.97,0.89,4,0.0,139.60458333333324
+Gaza,North Gaza,Water Pump,13,80.92,0.91,3,479.4,80.95416666666671
+Gaza,Khan Younis,Residential,7,51.96,0.73,1,0.0,50.858666666666664
+Gaza,North Gaza,Emergency Center,0,107.38,0.78,3,0.0,102.27791666666661
+Gaza,Gaza City,Hospital,14,123.03,0.79,4,0.0,128.19391666666678
+West Bank,Hebron,Water Pump,18,77.26,0.49,3,466.4,78.85841666666654
+West Bank,Jenin,Water Pump,14,84.8,0.56,3,566.7,80.12933333333332
+West Bank,Tulkarm,Emergency Center,0,105.35,0.51,3,0.0,102.7344166666668
+Gaza,Deir al-Balah,Emergency Center,1,108.12,0.91,3,0.0,97.95558333333341
+Gaza,North Gaza,Water Pump,14,93.86,0.74,3,363.7,91.57675
+Gaza,North Gaza,Hospital,14,124.54,0.87,4,0.0,125.70941666666698
+Gaza,Rafah,Water Pump,3,81.71,0.72,3,425.9,81.09766666666663
+Gaza,Khan Younis,Residential,5,41.37,0.75,1,0.0,50.13133333333329
+West Bank,Hebron,Residential,12,36.96,0.24,1,0.0,46.912166666666664
+Gaza,Deir al-Balah,Water Pump,11,64.09,0.88,3,759.4,68.16041666666675
+Gaza,Khan Younis,Hospital,8,125.45,0.86,4,0.0,126.85600000000022
+West Bank,Ramallah,Emergency Center,10,92.54,0.25,3,0.0,98.74266666666679
+Gaza,Khan Younis,Emergency Center,3,76.23,0.92,3,0.0,83.42391666666649
+Gaza,Rafah,Residential,14,49.95,0.62,1,0.0,54.72874999999989
+Gaza,Khan Younis,Residential,20,60.19,0.64,1,0.0,57.89424999999999
+West Bank,Ramallah,Emergency Center,10,116.15,0.39,3,0.0,108.62541666666655
+Gaza,Khan Younis,Water Pump,16,83.48,0.92,3,316.4,82.41724999999983
+West Bank,Ramallah,Water Pump,19,76.76,0.34,3,757.4,73.99949999999993
+Gaza,Rafah,Emergency Center,17,103.18,0.66,3,0.0,96.49358333333338
+West Bank,Ramallah,Hospital,19,124.88,0.23,4,0.0,126.17624999999977
+Gaza,Gaza City,Water Pump,0,72.4,0.75,3,498.7,74.43558333333323
+West Bank,Hebron,Emergency Center,16,71.83,0.39,3,0.0,88.84199999999997
+West Bank,Hebron,Emergency Center,0,108.78,0.38,3,0.0,94.09725
+West Bank,Jenin,Hospital,17,129.82,0.51,4,0.0,128.3944166666666
+West Bank,Ramallah,Residential,22,77.31,0.35,1,0.0,67.70925000000014
+West Bank,Hebron,Emergency Center,1,90.44,0.21,3,0.0,89.06291666666654
+West Bank,Nablus,Water Pump,7,61.08,0.29,3,411.0,75.03800000000001
+Gaza,North Gaza,Residential,21,46.96,0.8,1,0.0,47.590000000000025
+Gaza,Gaza City,Residential,14,66.04,0.88,1,0.0,60.69233333333329
+West Bank,Hebron,Residential,3,77.22,0.26,1,0.0,73.46458333333335
+West Bank,Nablus,Water Pump,9,63.42,0.21,3,403.9,72.82433333333334
+Gaza,Rafah,Residential,17,74.63,0.89,1,0.0,68.30583333333337
+West Bank,Hebron,Emergency Center,1,88.15,0.21,3,0.0,89.06291666666654
+West Bank,Tulkarm,Hospital,5,146.43,0.35,4,0.0,141.24500000000003
+Gaza,Deir al-Balah,Water Pump,19,98.98,0.64,3,689.9,86.53983333333319
+West Bank,Hebron,Emergency Center,22,109.99,0.37,3,0.0,93.76183333333324
+Gaza,Gaza City,Emergency Center,8,97.08,0.82,3,0.0,101.3955833333333
+Gaza,Gaza City,Emergency Center,21,111.75,0.94,3,0.0,94.36475000000003
+West Bank,Tulkarm,Hospital,1,116.34,0.21,4,0.0,121.1400833333333
+West Bank,Tulkarm,Emergency Center,3,94.9,0.23,3,0.0,95.79883333333323
+Gaza,Gaza City,Emergency Center,11,80.32,0.6,3,0.0,85.28983333333326
+Gaza,Rafah,Hospital,5,143.93,0.69,4,0.0,125.83575000000013
+Gaza,Gaza City,Hospital,6,134.4,0.89,4,0.0,137.6810833333333
+Gaza,Deir al-Balah,Emergency Center,13,72.35,0.66,3,0.0,79.0366666666668
+Gaza,Gaza City,Water Pump,20,84.13,0.74,3,422.7,84.91691666666658
+West Bank,Hebron,Residential,3,65.95,0.32,1,0.0,66.68358333333326
+Gaza,Khan Younis,Water Pump,14,98.16,0.77,3,367.5,95.34791666666655
+West Bank,Jenin,Water Pump,19,66.48,0.54,3,720.8,71.11399999999985
+Gaza,North Gaza,Water Pump,1,84.93,0.72,3,537.1,81.01616666666676
+West Bank,Ramallah,Hospital,10,135.9,0.38,4,0.0,138.09899999999985
+Gaza,Rafah,Emergency Center,4,70.12,0.94,3,0.0,78.49966666666663
+West Bank,Nablus,Residential,18,45.73,0.52,1,0.0,50.025083333333264
+Gaza,North Gaza,Hospital,9,141.43,0.78,4,0.0,133.73050000000018
+West Bank,Hebron,Residential,20,67.95,0.49,1,0.0,64.96516666666663
+West Bank,Ramallah,Emergency Center,11,81.06,0.6,3,0.0,88.2088333333333
+Gaza,Khan Younis,Water Pump,9,83.53,0.79,3,799.7,80.78583333333336
+West Bank,Nablus,Water Pump,13,64.82,0.28,3,665.5,73.85458333333325
+West Bank,Nablus,Water Pump,22,91.81,0.22,3,672.5,76.47258333333329
+Gaza,Khan Younis,Water Pump,9,85.78,0.73,3,625.1,85.32608333333339
+West Bank,Jenin,Hospital,1,153.1,0.41,4,0.0,144.68908333333346
+West Bank,Jenin,Water Pump,14,92.16,0.46,3,569.2,75.64958333333328
+Gaza,Khan Younis,Hospital,15,125.61,0.91,4,0.0,126.69950000000009
+West Bank,Hebron,Emergency Center,1,71.06,0.55,3,0.0,80.90475000000005
+Gaza,Khan Younis,Residential,2,33.5,0.6,1,0.0,65.60033333333325
+Gaza,Gaza City,Hospital,20,128.79,0.8,4,0.0,125.64525000000022
+West Bank,Ramallah,Emergency Center,6,96.13,0.49,3,0.0,106.90599999999979
+Gaza,Rafah,Hospital,13,117.82,0.9,4,0.0,125.1189166666666
+West Bank,Tulkarm,Hospital,15,101.07,0.6,4,0.0,110.83274999999986
+Gaza,Gaza City,Hospital,23,107.47,0.93,4,0.0,117.3682499999999
+Gaza,North Gaza,Hospital,10,135.31,0.94,4,0.0,136.50724999999997
+Gaza,Rafah,Emergency Center,12,119.46,0.86,3,0.0,112.68891666666654
+West Bank,Hebron,Residential,19,71.89,0.29,1,0.0,65.31533333333341
+Gaza,North Gaza,Emergency Center,9,72.35,0.73,3,0.0,77.16166666666682
+Gaza,Gaza City,Emergency Center,2,111.31,0.88,3,0.0,109.7526666666667
+West Bank,Ramallah,Hospital,2,135.84,0.41,4,0.0,136.651
+Gaza,Khan Younis,Water Pump,17,79.65,0.91,3,798.2,78.40824999999987
+Gaza,North Gaza,Residential,14,31.74,0.91,1,0.0,41.75449999999993
+Gaza,Khan Younis,Water Pump,8,75.65,0.77,3,436.5,86.8481666666667
+Gaza,Gaza City,Emergency Center,11,71.77,0.72,3,0.0,78.15933333333349
+Gaza,North Gaza,Water Pump,1,76.34,0.69,3,486.3,78.63191666666675
+Gaza,Khan Younis,Emergency Center,5,118.11,0.64,3,0.0,109.74775000000014
+West Bank,Tulkarm,Hospital,16,103.69,0.55,4,0.0,115.47124999999986
+West Bank,Tulkarm,Water Pump,2,73.91,0.43,3,639.0,74.41941666666659
+Gaza,Gaza City,Emergency Center,23,109.87,0.83,3,0.0,105.79925000000009
+Gaza,Rafah,Water Pump,15,88.33,0.84,3,718.5,82.59766666666663
+West Bank,Jenin,Water Pump,5,67.57,0.58,3,740.8,69.00191666666659
+Gaza,Rafah,Water Pump,22,60.21,0.68,3,710.0,70.19566666666665
+Gaza,Khan Younis,Residential,1,71.61,0.78,1,0.0,69.04916666666658
+Gaza,Khan Younis,Residential,12,60.85,0.94,1,0.0,60.195666666666654
+Gaza,Khan Younis,Residential,23,70.93,0.64,1,0.0,62.335333333333395
+Gaza,Khan Younis,Hospital,1,120.51,0.82,4,0.0,119.69808333333343
