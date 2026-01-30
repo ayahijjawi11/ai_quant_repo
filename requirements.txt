@@ -1,0 +1,10 @@
+numpy>=1.24
+pandas>=2.0
+
+# For quantum-inspired optimization (no real quantum hardware required)
+scipy>=1.10
+
+# Optional: plotting / analysis (if you later add charts)
+matplotlib>=3.7
+
+# Web demo (GitHub Pages does NOT need these, only Python side)
