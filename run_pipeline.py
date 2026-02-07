@@ -102,8 +102,6 @@ def run_one_hour(
     q_total_score = float(out_q["total_score"].iloc[0])
     c_total_score = float(out_c["total_score"].iloc[0])
 
-    bitstring = "".join(str(int(v)) for v in out_q_sel["decision_x"].tolist())
-
     print(f"Quantum chosen bitstring: {bitstring}\n")
     print("=== Comparison: Quantum vs Classical (Fair Partial) ===")
     print(f"Supply limit: {supply_mw:.2f} MW")
