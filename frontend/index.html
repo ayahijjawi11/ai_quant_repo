@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Electricity Allocation Dashboard</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <header class="header">
+    <div>
+      <h1>Electricity Allocation Dashboard</h1>
+      <p class="sub">
+        Quantum-inspired selection + Fair Partial Allocation (1 / 0.5 / 0)
+      </p>
+    </div>
+    <div class="controls">
+      <label>Hour
+        <input id="hourInput" type="number" min="0" max="23" value="12"/>
+      </label>
+      <button id="loadBtn">Load Results</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="cards">
+      <div class="card">
+        <h3>Supply Limit (MW)</h3>
+        <div class="big" id="supplyLimit">—</div>
+      </div>
+      <div class="card">
+        <h3>Quantum Used (MW)</h3>
+        <div class="big" id="qUsed">—</div>
+        <div class="small" id="qServed">—</div>
+        <div class="small" id="qScore">—</div>
+      </div>
+      <div class="card">
+        <h3>Classic Used (MW)</h3>
+        <div class="big" id="cUsed">—</div>
+        <div class="small" id="cServed">—</div>
+        <div class="small" id="cScore">—</div>
+      </div>
+      <div class="card">
+        <h3>Winner</h3>
+        <div class="big" id="winner">—</div>
+        <div class="small" id="winnerReason">—</div>
+      </div>
+    </section>
+
+    <section class="split">
+      <div class="panel">
+        <div class="panelHead">
+          <h2>Quantum Allocation</h2>
+        </div>
+        <div class="tableWrap">
+          <table id="qTable"></table>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="panelHead">
+          <h2>Classical Greedy Allocation</h2>
+        </div>
+        <div class="tableWrap">
+          <table id="cTable"></table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FLOATING CHAT BUTTON -->
+  <button id="chatToggle" class="chat-toggle">💬 Ask AI</button>
+
+  <!-- CHAT MODAL -->
+  <div id="chatModal" class="chat-modal hidden">
+    <div class="chatbox">
+      <div class="chatbox-header">
+        <span>Quantum Assistant</span>
+        <button id="closeChat">✖</button>
+      </div>
+
+      <div id="chatWindow" class="chat-window"></div>
+
+      <div class="chat-input">
+        <input id="chatInput" placeholder="Ask about electricity...">
+        <button id="sendChat">Send</button>
+      </div>
+
+      <div class="suggested">
+        <button data-q="How much electricity is remaining?">Remaining electricity</button>
+        <button data-q="Which regions received electricity?">Who received power</button>
+        <button data-q="Why did some areas get only 50%?">Why partial allocation</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
